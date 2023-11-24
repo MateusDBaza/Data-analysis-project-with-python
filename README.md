@@ -11,7 +11,7 @@ Analysis of races 50km and 50mi, that happened in the 'USA' year 2020
 
 Question:
 
-Question 1: difference in speed for the 50km, Male vs Female
+Question 1: difference in speed for the 50km and 50mi, Male vs Female
 
 Question 2: what age group are the best in the 50km races
 
