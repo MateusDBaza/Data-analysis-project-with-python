@@ -1,4 +1,4 @@
-# Data-analysis-project-with-python
+# Data-analytics-project-with-python
 Exploratory Data Analysis (EDA) portfolio project within Python Pandas.
 
 Everything coded in Jupyter Notebook and the dataset is from Kaggle.
